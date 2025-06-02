@@ -41,13 +41,9 @@ Key layers:
 Make sure you have the following Python packages installed:
 
 ```bash
-pip install numpy matplotlib tensorflow notebook
+pip install tensorflow pandas numpy scikit-learn matplotlib
 ```
 
-Or if using PyTorch:
-```
-pip install torch torchvision
-```
 ### Running the Notebook
 ```
 jupyter notebook LeNet-5.ipynb
