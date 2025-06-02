@@ -4,7 +4,7 @@ Welcome to this repository dedicated to understanding the fundamentals of neural
 
 ## 📁 Contents
 
-- `LeNet.ipynb` – A Jupyter Notebook demonstrating the LeNet-5 architecture using a sample dataset (e.g., MNIST).
+- `LeNet-5.ipynb` – A Jupyter Notebook demonstrating the LeNet-5 architecture using a sample dataset (e.g., MNIST).
 - `dataset/` – Directory containing the dataset used to train and evaluate the model.
 - `document/` – A brief document explaining the core concepts of neural networks and the architecture of LeNet.
 
